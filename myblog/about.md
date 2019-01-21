@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I am a software engineer at Google. I received my bachelor's and master's degree from MIT working with [Prof. Julian Shun](https://people.csail.mit.edu/jshun/). Prior to that, I was an [AFS foreign exchange](https://www.afsusa.org/) student in [Whitethorn, CA](https://en.wikipedia.org/wiki/Whitethorn,_California). I was born and raised in northwestern China in a city called [Lanzhou](https://en.wikipedia.org/wiki/Lanzhou).
