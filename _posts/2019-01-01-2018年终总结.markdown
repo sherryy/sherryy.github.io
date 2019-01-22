@@ -76,7 +76,7 @@ categories: jekyll update
 
 ## 故地重游
 
-2018年12月，我为了参加高中交流时[接待家庭母亲的葬礼](http://localhost:4000/jekyll/update/2018/12/29/Lynda-pass.html)，回到了加州北部一个叫 [Whitethorn](https://en.wikipedia.org/wiki/Whitethorn,_California) 的小地方。Whitethorn 属于 [Humboldt county](https://en.wikipedia.org/wiki/Humboldt_County,_California)，位于旧金山以北 340 miles 的地方,这里的居民和上世纪七八十年代的[嬉皮士](https://en.wikipedia.org/wiki/History_of_the_hippie_movement)有着紧密的联系。受当地气候和[地形](https://en.wikipedia.org/wiki/Lost_Coast)的影响，种大麻是那里居民的主要经济来源。而在2016年之前，种植或使用非 medical 的大麻在加州是违法的。这个地方也因此变得更加封闭，可以说是与世隔绝。手机没有信号、里最近的小城市开车一个半小时不说，我在的那一年我们高中四个年级总共还只有13个学生。那一年的故事会是另外一篇 blog。
+2018年12月，我为了参加高中交流时[接待家庭母亲的葬礼](https://sherryy.github.io/jekyll/update/2018/12/30/Lynda-pass.html)，回到了加州北部一个叫 [Whitethorn](https://en.wikipedia.org/wiki/Whitethorn,_California) 的小地方。Whitethorn 属于 [Humboldt county](https://en.wikipedia.org/wiki/Humboldt_County,_California)，位于旧金山以北 340 miles 的地方,这里的居民和上世纪七八十年代的[嬉皮士](https://en.wikipedia.org/wiki/History_of_the_hippie_movement)有着紧密的联系。受当地气候和[地形](https://en.wikipedia.org/wiki/Lost_Coast)的影响，种大麻是那里居民的主要经济来源。而在2016年之前，种植或使用非 medical 的大麻在加州是违法的。这个地方也因此变得更加封闭，可以说是与世隔绝。手机没有信号、里最近的小城市开车一个半小时不说，我在的那一年我们高中四个年级总共还只有13个学生。那一年的故事会是另外一篇 blog。
 
 这次我以更成熟、更独立的身份回到这里，才发现我所经历的两个圈子的贫富差距有多大，以及这两个圈子中的人的精神世界有多么不同。MIT 和 Silicon Valley 的这个圈子里住着的是 the elite：吃着 free food，想着怎么实现改变世界的 mission，去着健身房。大多数人与“贫穷”二字可能已有几代之隔。而 Humboldt 这个圈子中住的是很底层的人：学校的学生很多都 qualify for 政府提供的救济午餐，大家想着的是怎么糊口，早出晚归干的是体力活，学校的学生父母双全家庭幸福的没有几个，基本上也没有什么人上大学。这次回去听说高中一个同学的父亲开枪打伤警察进了监狱，另一个同学被炒鱿鱼后每个月靠政府发的 1000 块 unemployment 救济金生活。这还说的都是意识清醒的人，还有些人沉溺于大麻还要其他毒品已经分不清什么是现实世界了。加州大麻合法化对这个地方来说是一个坏消息。大麻在合法化后价格骤减，当地很多人已经无法靠种植大麻维持生计了。我认识的很多人不得不背井离乡去别处打拼。这里本就落后的经济现在可以说是日渐萧条。
 
