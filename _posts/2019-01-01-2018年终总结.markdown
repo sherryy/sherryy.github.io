@@ -4,6 +4,8 @@ title:  "2018年终总结"
 date:   2019-01-01 21:00:00 -0800
 categories: jekyll update
 ---
+![](/assets/images/20190101/20190101_0.jpg)
+
 ## 工作
 
 还记得四年前看到MIT录取邮件上写的 "welcome to the class of 2018" 时觉得2018简直就是个遥不可及的数字，现在这一年已然成了过去式。在这一年中，我完成了（更确切的说是开始了）从学生到 working professional 的转变，可以说是十分的不适应并且有些抵触。归根结底还是因为没有找到很明确的兴趣，然后工作中没有在学校时的那种 sense of obligation，也没有因为上各种课参加各种活动收获的 sense of progress，所以有些迷失方向。倒也不是说我对 software engineering 一点兴趣都没有，但总觉得 software 是一个用来实现其他目的的方式，而我还在寻找这个目的对于我来说究竟是什么。其实话说回来我也明白不一定非得追求这个目的才能实现自我价值。周围同事从工作中获得 fulfillment 的方式是五花八门：有些人对 technical problem solving 和 debugging 本身就有极大的兴趣，不会觉得 debugging 是一件麻烦或者痛苦的事；还有些人只是把 software engineering 当作挣钱的方式，然后以课余兴趣或者提前退休为动力。因为每个人的经历和性格都不一样，我也没觉得哪种方式更正确，就如那句 “there is no right way but your way” 一样，只是我还没有找到 my way。
