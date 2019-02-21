@@ -4,7 +4,6 @@ title:  "2018年终总结"
 date:   2019-01-01 21:00:00 -0800
 categories: jekyll update
 ---
-![](/assets/images/20190101/20190101_0.jpg)
 
 ## 工作
 
