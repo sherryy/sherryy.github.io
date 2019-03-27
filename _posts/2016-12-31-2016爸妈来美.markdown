@@ -1,5 +1,1 @@
-~---
-youtubeId: 7px01VrhRbc
----~
-
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayer.html id=7px01VrhRbc %}
