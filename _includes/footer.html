@@ -4,22 +4,22 @@
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
-      <div class="footer-col one-half">
+      <div class="footer-col one-half" align="left">
         <ul class="contact-list">
           <li class="p-name">
-	    Contact
-          </li>
-	  mengjiao 'at' mit 'dot' edu
+	    Email: sherryy 'at' google 'dot' com
+          </li>	    
         </ul>
       </div>
 
-      <div class="footer-col one-half">
-        <p>{{- site.description | escape -}}</p>
-      </div>
+      <div class="social-links footer-col" align="center">
+	<a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg> <span class="username">{{ site.linkedin_username| escape }}</span></a>
+      </div>      
 
-      <div class="social-links footer-col">
-        {%- include social.html -%}
+      <div class="social-links footer-col" align="right">
+	<a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span class="username">{{ site.github_username| escape }}</span></a>	
       </div>
+      
     </div>
 
   </div>
