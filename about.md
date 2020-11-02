@@ -4,7 +4,7 @@ layout: page
 
 <img src="/assets/images/portrait.png" width="260" align="left">
 # About
-I am a sofware engineer at Google Brain working with [Dale Schuurmans](https://webdocs.cs.ualberta.ca/~dale/) on reinforcement learning. I am fortunate to have collaborated extensively with [Bo Dai](https://sites.google.com/site/daibohr/), [Hanjun Dai](https://hanjun-dai.github.io/), and [Ofir Nachum](https://research.google/people/105364/). Prior to Brain, I received my M.Eng. and B.S. in computer science from MIT working with [Julian Shun](https://people.csail.mit.edu/jshun/) on high performance computing for large-scale graphs. I have also worked on interesting computer systems problems such as enabling multi-core TPU inference in TensorFlow and lazy memory allocation in the Android operating system.
+I am a sofware engineer at Google Brain working with [Dale Schuurmans](https://webdocs.cs.ualberta.ca/~dale/) on reinforcement learning. I am fortunate to have collaborated extensively with [Bo Dai](https://sites.google.com/site/daibohr/), [Hanjun Dai](https://hanjun-dai.github.io/), and [Ofir Nachum](https://research.google/people/105364/). Prior to Brain, I received my M.Eng. and B.S. in computer science from MIT working with [Julian Shun](https://people.csail.mit.edu/jshun/) on high-performance computing for large-scale graphs. I have also worked on interesting computer systems problems such as enabling multi-core TPU inference in TensorFlow and lazy memory allocation in the Android operating system.
 
 &nbsp;&nbsp;
 # Publications
