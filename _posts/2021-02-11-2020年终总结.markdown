@@ -1,0 +1,78 @@
+---
+layout: post
+title:  "2020年终总结"
+date:   2021-02-11 19:12:00 -0800
+categories: jekyll update
+---
+
+2020 的年终总结一直拖到春节前才开始动笔，一方面以工作的 deadline 为借口，另一方面 2020 是近多年来过得最散漫、最没有动力、也最不丰富的一年，甚至一度觉得没有什么东西可以写。但就是在这样仿佛全世界都暂停了的一年里，自己还是有所成长的，特此记录。
+
+## 工作
+
+2020 年工作方面终于算是上了 machine learning research 的道，但是由于缺乏 training 和经验，做的三四个项目基本上都是更懂更会同事的 idea，我只负责实现一下。用一个淘金热的比喻来形容我的 collaborators: 老板 D 给我解释金子的成分是什么、为什么要淘金、为什么淘金有前途。同事 B 站在 high-level 的角度给我指着地上说 “你看这里不是有金子吗？那里不是也有吗？这里更多。你就开挖吧”，然而我一脸懵，完全看不出他指的地方为什么有金子，也不知道该怎么开始挖。同事 H 很 hands-on, 手把手教我怎么使用各种淘金工具，并且给我打好基础，我只需要顺着他一开始挖的地方继续往下挖就是了。同事 O 更夸张，直接替我挖到了金子，但顾及到我的自尊心，所以把挖到的金子再用点土盖住，然后叫我来挖。我还想了另外一个比喻：如果同事们是名侦探柯南的话，我就是里面的光彦步美元太（几个真的小学生），傻傻的来一句“大海好蓝呀”，然后一道闪电从柯南脑海穿过––––原来罪犯使用的是镜面倒影手法来杀人的。不过到第三第四个项目的时候我也升级成了毛利小五郎，会对谁是罪犯以及杀人手法作一通武断的分析，只不过很少能分析对罢了。我觉得不能一直这样下去，就申请了几个学校的 PhD 项目。不过 O 说的 “You don’t seem to struggle more than what research requires” 还有 “What you lack is experience. You can gain that through a PhD, or at work” 对我还是起到了一定的鼓励作用，也让我明白不要太依赖于是否身处学校以及有没有为了拿到 PhD 学位的压力–––学习钻研在自己，是无时无刻不在做、在哪里都可以做的事。
+
+尽管这几个项目有些拔苗助长，我也多少有种 took credit for other people’s contribution 的感觉，但我还是从这些同事身上学到了很多。第一点就是做 research 要以一种系统的方式而不是 try random things and rely on random chances。接下来要做什么，要尝试什么，work 的话 follow-up 什么，不 work 的话怎么调整，deadline 还有三周了 priority 是什么，reviewer 没仔细看 paper 时 rebuttal 要写什么，都是很 systemetic 的 approach，而不是像我一样非常意气用事地跑上实验就开始祈祷 things work，不 work 就 get frustrated。第二点是好的作息和思考习惯成就好的 researchers，不管是像 O 那样早上6、7点起床，在最 productive 的时候工作（就连 deadline 过去的第二天也不例外），还是像 B、H 那样吃饭的时候都在想问题，读 paper 和在网上查信息时十分的的敏锐和全神贯注。像 H 说的，”The time for textbook-style systematic learning has long gone; now is the time to learn through trial and error and putting together pieces of knowledge here and there.” 这些 persistent 的 effort 无监督无逼迫，背后的 mentality 也不是来源于为了更美好的明天不得不辛苦奋斗（personally 我觉得这个 mentality 不是非常 sustainable)，而是好的习惯、discipline、和对 research topics 本身的兴趣。
+
+总的来说自己对研究还是很喜欢的。想攻克的问题有难度也有意义。做的过程中的学习、卡壳、problem solving、以及最后的收获也让我很满足。虽然大多数时候 things don’t work，但 there is always something to try。而且这样完整的做一套东西（从 problem 到 method, 到 implementation, 再到 paper/rebuttal writing, 以及最后 give presentations）还是很有趣的。虽然对于 research as a whole 感觉不错，但具体什么是好的以及适合我做的 research 现在还没有概念。以前以为难的就是好的，但2019年做的、在比较 technical 的人看来有些水的一篇论文 citation 反而是目前最高的。至于适合我的，去年的感受是不能做太虚的，那今年的感受是我不太喜欢也做不好太偏理论的。平衡取在哪里还得继续琢磨。
+
+当然也不是时刻都是这样积极向上的心态。开篇就说过今年是近几年来过得最散漫的一年。因为 work from home 的缘故，完全失去了正常的作息时间，养成了什么时候都可以工作也都可以不工作的坏习惯。工作上卡住了就大中午跑去打球，最夸张的时候连续两个工作日一点工作都不做，晚上熬夜刷剧放空自我，有了 depression 的感觉。把我拉回正轨的还是和 collaborators 的 meetings，自己去操场跑步清醒一下，或者听点有意思的 podcasts。最后得出的结论是自己二十多岁的大脑真的是 full of impulses。在没有外界规律和 obligation 的情况下能有条不紊地工作生活是2021年的 new year resolution 之一了。
+
+## 业余
+
+2020 工作之外花了大把的时间在乒乓球上。疫情全面爆发后平均一周能练三四次球。笔记也记了三四十页，但提高得很慢。不过因为太喜欢了，便不在意付出和回报的不成正比了。目前为止最大的体会是 self-awareness 很重要。一方面感觉大脑和身体之间的神经元在传递信息的时候有所疏漏，导致我以为自己做的和实际上自己做的动作经常存在偏差。好在这一点可以通过看自己练球的视频形成一个 feedback loop，然后多体会自己在做正确动作的时候是什么感觉。另一方面有一些不好的动作习惯要改掉，但大脑对身体的控制需要在刻意、专注，的情况下进行才有效果，否则一累或者注意力不集中不好的习惯经常就会回来，那么这个时候意识到大脑刚才没有 consciously control 身体是很重要的，否则重复了不好的习惯只能加深错误的肌肉记忆。还有一个不利于我进步的因素就是我急躁的性格。不过希望意识到这些就是提高的开始了。问题多，所以需要以正确的顺序解决问题。比如很多时候看似是手上的问题，但其实是步法没有到位。解决了步法，手上的问题就迎刃而解了。最后的感触是周围会的人很多，大家你一言我一语，低重心脚步到位转腰别拉手放松吃住球多迎前等类似的话我已经听过太多遍了，也明白大家说的都对。但是最重要的是能 make sense of what 低重心 means for me，或者说我做到这一点时身体是个什么感受，然后下次才有标杆，才能 enforce 正确的动作。总之就是要 internalize 这些大家经常挂在嘴边的要点。
+
+2020 开始听了两个新的 podcasts，Angela Duckworth 的 No Stupid Questions 和 Steve Levitt 的 People I mostly Admire。非常喜欢前者，甚至超过了 Freakonomics Radio。No Stupid Questions 经常涉及一些很贴近生活的心理学和行为经济学上的问题及近年来的研究成果。光听这几期的名字就已经觉得很有趣了：“Are ambitious people inherently selfish”, “Why is it so hard to be alone with our thoughts”, “Is incompetence a form of dishonesty”。
+
+## 读书
+
+2020依旧不出意料的 fail 了去年定下的 reading resolution。正如我一同事所说，疫情以后工作、睡觉、读书的时间都少了。不过今年有进步的是有那么几本书确实看得很投入，完全不是为了完成任务。涉猎也由纯粹的鸡汤转变到了自传，因为那种 “我要开始讲道理了你认真听着” 类型的书重复性强太说教，反而是在别人的自传里发现道理比较有意思。
+
+- [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://book.douban.com/subject/27172136/)（很推荐）。既长知识又有教育意义。知识方面知道了睡觉是分两个 stages 的，Rapid Eye Movement (REM) 和 Non-Rapid Eye Movement (NREM)。做梦都是在前者，而且人的眼球真的是会 rapidly move 的（顾名思义）。REM 对于创造力以及心理创伤的恢复很重要，NREM 对于短期记忆到长期记忆的沉淀很重要。作者作为 UC Berkeley 专攻睡眠的教授讲述了这个领域多年来的研究成果，确实让我大开眼界。值得一提的 anecdotes 有发明元素周期表的门捷列夫是做梦梦到的元素周期表，以及披头士乐队也是做梦梦见的一首很火歌的开篇。当然这些 anecdotes 的真实性就有待考究了。不过我自己也确实有做梦帮助解决工作学习上遇到的问题的情况，虽然不一定是直接梦到了答案，但经常第二天可以很轻松地解决昨天觉得很困难的问题，当然也有可能只是因为休息好了而不是做梦对于创造力有什么神奇的帮助。这本书也讲述了缺乏睡眠的各种危害，以至于我读完后对于没睡好变得异常敏感，也开始重视起了睡觉。
+
+- [Principles: Life and Work](https://book.douban.com/subject/27608239/) （一般推荐）。今年读的唯一一本鸡汤书。不过 Ray Dalio 是我的 role model 之一，我对书里提到的人的 blind spots 和 self ego 的危害也比较有共鸣。最大的 takeaway 是 self-improvement 是可以有系统的方式和 principles 的。比如 Ray 说的 5-step process: （1）立下目标（2）遇到问题（3）分析原因（4）制定解决方案（5）实施解决方案，然后重新开始（1）到（5）的循环。希望自己今后也可以多以这种比较系统的方式看待并处理工作和生活中遇到的问题。
+
+- [The state of affairs: Rethinking Infidelity](https://book.douban.com/subject/27097352/) （很推荐）。机缘巧合下看的一本书。作者是一个从事婚姻咨询数十年的心理咨询师，以十分公开透明并饱含同理心的方式从出轨者，被出轨者，和第三者的角度讲述了各类婚后出轨的案例。用作者的话说，”It’s difficult to think of any other relatively common and technically legal practice of which more of us disapprove”。用读者的话说，”Most of us can find our own situations well-represented”。之前我对婚姻的最深理解就是陈道明说的 “共修是夫妻关系的最高境界。夫妻结缘的最大意义不是吃饭穿衣、生儿育女，而是彼此滋养、彼此成就，提升生命的层次”。这本书让我对婚姻有了些新的认识： “Our partners do not belong to us; they are only on loan, with an option to renew—or not. Knowing that we can lose them does not have to undermine commitment; rather, it mandates an active engagement that long-term couples often lose. The realization that our loved ones are forever elusive should jolt us out of complacency, in the most positive sense.” 作者还有一个比喻让我印象深刻：“While many people have positive, life-changing experiences as a result of terminal illness, I would no more recommend having an affair than I would recommend getting cancer”。最后让我有些诧异的是中西方在出轨问题上的意见差异。虽然从道理上都是持否定态度的，但感觉国内对出轨多少有些司空见惯见怪不怪的态度，而对于大多数这边的人来说出轨是绝对不能容忍的。开玩笑的说，我东方终于也开放了一次。细究其原因可能和东方在婚前相对比较保守，太多尝试是不被看好的，所以可能在没来得及搞清楚什么样的最适合自己之前就结婚了，相反西方的人从高中开始到三四十岁你爱 date 谁 date 谁，想 date 多少个 date 多少个，所以对于最后选择结婚的那个才更慎重吧。
+
+- [UNIX: A History and a Memoir](https://book.douban.com/subject/34866216/) (一般推荐）。这本书是著名 C 语言书的作者之一 Brian Kernighan 记录在 Bell Labs 的工作和 UNIX 类操作系统的历史。让我感触最深的是现在的 Brain 和书中所写的 Bell Labs 很像，不论是 extremely smart and hard-working people，还是想做什么研究做什么研究、没有 obligations 没有 mendatory meetings 没有 bureaucracy 的 fully merit based 的工作环境，都让我感叹实是 industry 里难得的一方净土。但 Bell Labs 最后的结局也让我隐隐觉得 Brain 的未来还是充满了不确定性，毕竟 academic research 在工业界的 value 还是有不少争议的。
+
+- [胡适留学日记](https://book.douban.com/subject/19982665/) （很推荐）。看这本书最初的原因是网上看的一个梗，说胡适在留学期间喜欢打麻将，日记里写有 “7月4日: 新开这本日记，也为了督促自己下个学期多下些苦功。先要读完手边的莎士比亚的《亨利八世》。7月14日: 打牌。7月15日: 打牌。7月16日: 胡适之啊胡适之！你怎么能如此堕落！先前订下的学习计划你都忘了吗？子曰吾日三省吾身。不能再这样下去了！7月17日: 打牌”。本来以为原来像胡适这样的文学大家都有和自己作斗争失败的时候，但读了胡适留学日记原版发现这个梗并不属实。虽然原日记里有打牌的影子，但绝大多数是胡适一百年前在与我同龄时留学的所见所闻所想，是 “少年人的自喜、夸大、野心、梦想“，是“不受成见拘缚而肯随时长进的青年人的内心生活的历史”。感触比较深的一是原来胡适在立业前也是单调但充实的过着 “上课”、“读X书” 的每一天。二是我本以为我的所见所闻所想是独一无二的，哪知胡适早在一百年前就见过闻过想过类似的事了。
+
+- [自在独行](https://book.douban.com/subject/26802388/)（一般推荐）。2020过得比较独，和我的性格偏好不符，就想看看过来人是怎么 handle 独处这一问题的。但并没有从贾平凹这里获得很多的启发。不过还是有让我有感触的话，就摘抄几句吧：
+  * “在相当长的时间里，我把我的朋友看得非常重要，为此冷落了我的亲戚，甚至我的父母和妻子儿女，可我渐渐发现，一个人活着其实仅仅是一个人的事，生活关照型的朋友可能了解我身上的每一个痣，不一定了解我的心，精神交流型的朋友可能了解我的心，却又常常拂我的意。快乐来了，最快乐的是自己，苦难来了，最苦难的也是自己。然而我还是交朋友，朋友多多益善，孤独的灵魂在空荡的天空中游戈，但人之所以是人，有灵魂同时有身躯的皮囊，要生活就不能没有朋友，因为出了门，门外的路泥泞，树丛和墙根又有狗吠。我对于曾经是我朋友后断交或疏远的那些人，时常想起来寒心，也时常想到他们的好处。如今倒坦然多了，因为当时寒心，是把朋友看成了自己和自己的家人，殊不知朋友毕竟是朋友，朋友是春天的花，冬天就都没有了。”
+
+  * “一个家庭组合十年， 爱情就老了，剩下的只是日子，日子里只是孩子。”
+
+  * “胡适说过，读书可以忘掉打麻将，打麻将可以忘掉读书。”
+
+  * “好多人在说自己孤独，说自己孤独的人其实并不孤独。孤独不是受到了冷落和遗弃，而是无知己，不被理解。”
+
+关于乒乓球的书就不做详细介绍了：
+
+- [Table Tennis: Steps to Success: Steps to Success](https://www.goodreads.com/book/show/7606791-table-tennis)
+
+- [Table Tennis Tactics for Thinkers](https://www.goodreads.com/book/show/17354235-table-tennis-tactics-for-thinkers)
+
+- [Breaking 2000](https://www.goodreads.com/book/show/19051943-breaking-2000)
+
+- [Expert In A Year: The Ultimate Table Tennis Challenge](https://www.goodreads.com/book/show/26129708-expert-in-a-year)
+
+下面这些是看了大意但没细读的：
+
+- [Mindset](https://book.douban.com/subject/3371227/) 人的 mindset 分为 fixed mindset 和 growth mindset 两种。前者强调天赋后者强调努力，书中用调查研究举例说明持有 growth mindset 的人更容易 succeed。比较 subtle 的原因是有 growth mindset 的人 “believe you can develop yourself”，因此 “more open to accurate information about your current abilities, even if it’s unflattering.”
+
+- [Think, Fast and Slow](https://book.douban.com/subject/6754574/) 算是这类书的 classic 了，讲人大脑的两套系统，直觉快速反应系统和刻意慢速思考系统。很多 common sense 的东西，完全没有想象的精彩。
+
+- [Self-Efficacy: The Exercise of Control](https://book.douban.com/subject/1323270/) Self-efficacy 大意是一个人自认为是否具备能完成某件事情的能力。其实感觉和 confidence 没有太大差别，只是更具体到了完成某件事情上。这本书非常学术，分析了 self-efficacy 的来源和影响。总的 takeaway 就是一个人客观来讲是否具备完成某件事情的能力并不是很重要，重要的是他是否相信自己具备这样的能力，但同时又不是盲目自大。书中介绍了几种 develop self-efficacy 的方式，比如看到和我类似背景的人做成某事，也介绍了如何解压和释放消极情绪，对我有一定的启发。
+
+## 认知
+- 来美7年以来，有那么几件以国内的眼光看简直不得了，但在这边看来根本不是事的事让我感到有些迷惑。今年在这几件事情上实现了小马过河，然后发现这水不像松鼠说的那样能把我淹死，也不像老牛说的那样只到脚踝，其中滋味确实只有亲身经历后才能明白。联想到2014年就 “Do Americans have too much freedom” 一事和接待爸爸 Bob 展开的讨论。当时我的观点是人有时候看不清事情的厉害关系，这时候盲目的崇尚 freedom 会使人犯下无法弥补的大错。但 Bob 诧异的说 “There isn’t such a thing as too much freedom”，仿佛 there is only not enough freedom。在2020我也因为拥有 too much freedom 而犯错挨打了，但我也理解了 Bob 当初为什么 appreciate 这种会带来 negative results 的自由。这种自由是 power 的体现 --- I am fully responsible for myself and the decisions I make, for better or worse。
+
+- 发现自己做事情更需要 true motivation 了，only things I truly want to do will stick，否则像十一点睡觉七点起床这样的 flag 立了拔拔了立，不像前几年可以认准一件事不问缘由坚持到底。
+
+- 认识到了自己除了 intellectual self 之外还是有个 emotional self 的，而且这个 emotional self 还挺难掌控。这两个 self 需要取平衡。真性情有真性情的好，但不要做 emotions 的奴隶。
+
+- 在对外人敞开心扉到什么程度比较合适有了新的认识。以前看过类似的文章说学会 appreciate 人与人之间的距离感是成熟的表现，我也觉得君子之交淡如水有它的道理，但之前以为遇到深得我心者是可以畅所欲言言无不尽的，一方面酒逢知己千杯少，另一方面我自视是一个没有什么秘密的人，也不觉得任何人能用我说的话拿我怎样，所以在与人交往的方式上可以说是在以基本道德和善意为基础的前提下为所欲为。但今年因为过分忽视了距离感、没有尊重我和对方所处世界和角度的不同而造成了一些不好的结果。今后的 lessons 就是希望在多掌握一点平衡的同时依旧可以以一颗赤子之心待人。
+
+- 明白了Knowing of something 和 knowing something 的区别是在于是否有 internalize。之前对于 the known unknown（知道自己不知道的事）和 the unknown unknown（不知道自己不知道的事）比较 aware，但对于 the unknown known （自己以为知道了但并没有 internalize 的事）是没有体会的。今年在做了一些自己一开始就很清楚后果（但没有 internalize）的事后真真切切体会到了。尽管有所经历，但依旧肯定自己一直以来大无畏的犯险精神，只不过将来对于 the unknown known 要更敏感一些，才能将其转化为 the known known。
+
+- 身份认同感在这一年依旧没有得到改善。依旧处于美国人觉得我是 Chinese，中国人觉得我“又不是美国人干嘛动不动往外冒英文单词不能好好说中文吗” 的尴尬境地。Instead of feeling both，我更容易 feel neither。其实内心在大多数观点上还是更认同美国的，比如 minimal power/age distance，用我60岁老板的话说就是 “The major difference between us is that we are at a different stage of our career. From your stage, you see things that I don’t see, and I see things from my stage that you don’t see. The best thing for us to do is to exchange what we each do and do not see. Hence I treat you as my equal and you should do the same.”（老爷爷虽然很 articulate 不过实际行动也确实 treat 我 equally 了）。而 Chinese culture 对于领导、上级，年长的同事、甚至学长、学姐多少有长幼尊卑的强调，很多其他形式上的东西也让我不以为然。但我和中国的 ties 由于和父母亲近的关系以及小时候所受祖国文化的熏陶坚不可摧。总的来说感觉就是选边站真的比想跨文化容易太多了。最后得出的结论就是 my life is mine, 我要继续肆无忌惮冒我的英语单词继续畅所欲言 ignore 有的没的的 Chinese social cues，同时继续吃着火锅唱着周杰伦继续跟美国人 argue 为啥计划生育政策有它的道理而并不是 pure violation of human rights。
