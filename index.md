@@ -8,7 +8,8 @@ I am a sofware engineer at Google Brain working with [Dale Schuurmans](https://w
 
 &nbsp;&nbsp;
 # Publications
-- **Mengjiao Yang\***, Bo Dai\*, Ofir Nachum\*, George Tucker, Dale Schuurmans. *Offline Policy Selection under Uncertainty.* Under review at ICLR 2021. \[[paper](https://arxiv.org/abs/2012.06919)\]\[[code](https://github.com/google-research/dice_rl/tree/master/estimators)\]
+- **Mengjiao Yang**, Ofir Nachum. *Representation Matters: Offline Pretraining for Sequential Decision Making.* Preprint. \[[paper](https://arxiv.org/abs/2102.05815)\]
+- **Mengjiao Yang\***, Bo Dai\*, Ofir Nachum\*, George Tucker, Dale Schuurmans. *Offline Policy Selection under Uncertainty.* Preprint. \[[paper](https://arxiv.org/abs/2012.06919)\]\[[code](https://github.com/google-research/dice_rl/tree/master/estimators)\]
 - **Mengjiao Yang\***, Ofir Nachum\*, Bo Dai\*, Lihong Li, Dale Schuurmans. *Off-Policy Evaluation via the Regularized Lagrangian.* Conference on Neural Information Processing Systems (NeurIPS), 2020. \[[paper](http://arxiv.org/abs/2007.03438)\]\[[code](https://github.com/google-research/dice_rl)\]\[[slides](/assets/posters/dice.pdf)\]
 - **Mengjiao Yang\***, Bo Dai\*, Hanjun Dai, Dale Schuurmans. *Energy-Based Processes for Exchangeable Data.* The International Conference on Machine Learning (ICML), 2020. \[[paper](https://arxiv.org/abs/2003.07521)\]\[[code](https://github.com/google-research/google-research/tree/master/ebp)\]\[[slides](/assets/posters/ebp.pdf)\]
 - **Mengjiao Yang**, Been Kim. *Benchmarking Attribution Methods with Relative Feature Importance.* Oral presentation at NeurIPS workshop on Human-Centric Machine Learning, 2019. \[[paper](https://arxiv.org/abs/1907.09701)\]\[[code](https://github.com/google-research-datasets/bam)\]\[[poster](/assets/posters/bam.pdf)\]
