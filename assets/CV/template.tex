@@ -1,0 +1,102 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2015 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[11pt,a4paper,roman,colorlinks,linkcolor=true]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+% moderncv themes
+\moderncvstyle{classic}                             % style options are 'casual' (default), 'classic', 'banking', 'oldstyle' and 'fancy'
+\moderncvcolor{blue}                               % color options 'black', 'blue' (default), 'burgundy', 'green', 'grey', 'orange', 'purple' and 'red'
+\definecolor{blue}{rgb}{0.22,0.45,0.70}
+\moderncvicons{awesome}
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+
+% adjust the page margins
+\usepackage[scale=0.85]{geometry}
+\setlength{\hintscolumnwidth}{2.2cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+
+% personal data
+\renewcommand*{\namefont}{\fontsize{28}{5}\mdseries\upshape}
+\renewcommand*{\titlefont}{\fontsize{18}{5}\mdseries\upshape}
+
+\name{\textbf{MENGJIAO}}{YANG}
+\title{Software Engineer, Google Brain}
+\email{sherryy@google.com}
+\homepage{sherryy.github.io}
+\social[github]{sherryy}
+
+% bibliography adjustements (only useful if you make citations in your resume, or print a list of publications using BibTeX)
+%   to show numerical labels in the bibliography (default is to show no labels)
+\makeatletter\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}\makeatother
+%   to redefine the bibliography heading string ("Publications")
+%\renewcommand{\refname}{Articles}
+
+% bibliography with mutiple entries
+%\usepackage{multibib}
+%\newcites{book,misc}{{Books},{Others}}
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+\hypersetup{urlcolor=blue}
+%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
+%-----       resume       ---------------------------------------------------------
+\makecvtitle
+\vspace{-15mm}
+\section{Education}
+\vspace{-2mm}
+\cventry{2017-2018}{M.Eng. in Computer Science}{\normalfont{MIT}}{\hfill\color{gray}\small\faGraduationCap\href{https://people.csail.mit.edu/jshun/}{Julian Shun}}{}{Computer Science and Artificial Intelligence Laboratory (CSAIL)}  % arguments 3 to 6 can be left empty
+\cventry{2014-2017}{B.S. in Computer Science}{\normalfont{MIT}}{}{\hfill\color{gray}\small\faGraduationCap\href{https://people.csail.mit.edu/phw/}{Patrick Winston}}{\textbf{Graduate level courses}: Machine Learning, Signals and Inference, Operating Systems, Distributed Systems, Database Systems, Computer Security, Performance Engineering}
+
+\vspace{-2mm}
+\section{Publications}
+\vspace{-2mm}
+\cvitem{Preprint}{\textbf{Mengjiao Yang}, Ofir Nachum. \textit{Representation Matters: Offline Pretraining for Sequential Decision Making.} Preprint, 2021.}
+\cvitem{Preprint}{\textbf{Mengjiao Yang*}, Bo Dai*, Ofir Nachum*, George Tucker, Dale Schuurmans. \textit{Offline Policy Selection under Uncertainty.} Preprint, 2020.}
+\cvitem{NeurIPS20}{\textbf{Mengjiao Yang*}, Ofir Nachum*, Bo Dai*, Lihong Li, Dale Schuurmans. \textit{Off-Policy Evaluation via the Regularized Lagrangian.} Conference on Neural Information Processing Systems (NeurIPS), 2020.}
+\cvitem{ICML20}{\textbf{Mengjiao Yang*}, Bo Dai*, Hanjun Dai, Dale Schuurmans. \textit{Energy-Based Processes for Exchangeable Data.} The International Conference on Machine Learning (ICML), 2020}
+\cvitem{HCML19}{\textbf{Mengjiao Yang}, Been Kim. \textit{Benchmarking Attribution Methods with Relative Feature Importance.} \textbf{Oral} at NeurIPS workshop on Human-Centric Machine Learning, 2019.}
+\cvitem{OOPSLA18}{Yunming Zhang, \textbf{Mengjiao Yang}, Riyadh Baghdadi, Shoaib Kamil, Julian Shun, Saman Amarasinghe. \textit{GraphIt: A High-Performance Graph DSL.} The Object-Oriented Programming, Systems, Languages and Applications (OOPSLA), 2018.}
+\cvitem{Thesis}{\textbf{Mengjiao Yang}. Cache and NUMA Optimizations in A Domain-Specific Language for Graph Processing. Master's thesis, Massachusetts Institute of Technology, 2018.}
+
+\vspace{-2mm}
+\section{Projects \& Experiences}
+\vspace{-2mm}
+\cvitem{2018}{\textbf{TensorFlow}: Implemented multi-core inference on TPUs. Improved utilization by $\ge2$X.}
+\cvitem{2017}{\textbf{Android OS} internship: Designed the Linux memory shrinker in Android kernel remote procedure calls. Enabled lazy memory allocation for fast RPCs. Code accepted to the Linux kernel and Android Open Source Project.}
+\cvitem{2017}{\textbf{Five Rings Capital} internship: Built a high-performance interpreter to convert market data from stock exchanges to internal distributed trade messages.}
+%\cvitem{2016}{\textbf{Google CodeU}: Built a news search engine with crawling and indexing features from scratch. Won People’s Choice Award.}
+\cvitem{2016}{\textbf{Microsoft Student Partner}: Led machine learning courses using Microsoft Azure.}
+\cvitem{2015}{\textbf{MakeMIT finalist}: Invented a CPR instruction device carried by people with heart disease.}
+
+\vspace{-2mm}
+\section{Awards}
+\vspace{-2mm}
+\cvitem{2017}{Grace Hopper Research Scholar Award}
+\cvitem{2017}{MIT EECS Slaughter Undergraduate Research and Innovation Scholar Award}
+\cvitem{2016, 2017}{MIT Jack C. Tang Scholar Award}
+
+\vspace{-2mm}
+\section{Skills}
+\vspace{-2mm}
+\cvitem{Programming}{C, C++, Python, Java, GoLang, Unix, Emacs}
+\cvitem{Language}{Mandarin Chinese (native), English (fluent)}
+
+\vspace{-2mm}
+\section{Professional Services}
+\vspace{-2mm}
+\cvitem{Reviewer}{ICML21, IJCAI21, AAAI21, BayLearn20, SIGKDD20}
+\end{document}
+
+
+%% end of file `template.tex'.
