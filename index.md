@@ -9,8 +9,8 @@ I am a sofware engineer at Google Brain working with [Dale Schuurmans](https://w
 &nbsp;&nbsp;
 
 # Preprints
-- **Mengjiao Yang\***, Bo Dai\*, Ofir Nachum\*, George Tucker, Dale Schuurmans. *Offline Policy Selection under Uncertainty.* [paper](https://arxiv.org/abs/2012.06919)\]\[[code](https://github.com/google-research/dice_rl/tree/master/estimators)\]
-- *Provable Representation Learning for Imitation with Contrastive Fourier Features.* \[[paper](https://arxiv.org/abs/2105.12272)\]\[[code](https://github.com/google-research/google-research/tree/master/rl_repr/contrastive_fourier)\]
+- **Mengjiao Yang\***, Bo Dai\*, Ofir Nachum\*, George Tucker, Dale Schuurmans. *Offline Policy Selection under Uncertainty.* \[[paper](https://arxiv.org/abs/2012.06919)\]\[[code](https://github.com/google-research/dice_rl/tree/master/estimators)\]
+- Ofir Nachum, **Mengjiao Yang**. *Provable Representation Learning for Imitation with Contrastive Fourier Features.* \[[paper](https://arxiv.org/abs/2105.12272)\]\[[code](https://github.com/google-research/google-research/tree/master/rl_repr/contrastive_fourier)\]
 - Haoming Jiang, Bo Dai, **Mengjiao Yang**, Tuo Zhao, Wei Wei, Towards Automatic Evaluation of Dialog Systems: A Model-Free Off-Policy Evaluation Approach. \[[paper](https://arxiv.org/abs/2102.10242)\]\[[code](https://github.com/google-research/google-research/tree/master/dialogue_ope)\]
 
 # Publications
