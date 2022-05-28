@@ -3,7 +3,7 @@ layout: page
 ---
 
 <img src="/assets/images/portrait.png" width="250" align="left">
-I am a research scientist at Google Brain on [Dale Schuurmans](https://webdocs.cs.ualberta.ca/~dale/)'s team and a PhD student advised by [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/) at UC Berkeley. I am broadly interested in reinforcement learning and representation learning for sequential decision making.
+I am a research scientist at Google Brain on [Dale Schuurmans](https://webdocs.cs.ualberta.ca/~dale/)'s team and a PhD student at UC Berkeley advised by [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/). I am broadly interested in reinforcement learning and representation learning for sequential decision making.
 
 Prior to Brain, I received my M.Eng. and B.S. in computer science from MIT working with [Julian Shun](https://people.csail.mit.edu/jshun/) on high-performance computing for large-scale graphs. I have also worked on interesting computer systems problems such as multi-core inference in TensorFlow TPU and lazy memory allocation in the Android operating system.
 
