@@ -6,11 +6,12 @@ function loadNavigation() {
             <a href="group.html">Group</a> |
             <a href="publications.html">Publications</a> |
             <a href="talks.html">Talks</a> |
-            <a href="services.html">Services</a> |
-            <a href="teaching.html">Teaching</a>
+            <a href="services.html">Services</a>
         </div>
     `;
-    
+
+    //            <a href="teaching.html">Teaching</a>
+
     // Insert navigation at the beginning of the body
     const body = document.body;
     if (body.firstChild) {
